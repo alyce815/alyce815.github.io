@@ -25,9 +25,9 @@ body{
 	box-sizing: border-box;
 	border: 3px solid black; 
 }
-#Chicken .section-title {background: orange;}
-#Beef 	 .section-title {background: red;}
-#Pork    .section-title{background: yellow;}
+#LimeCurrySoup .section-title {background: orange;}
+#ShrimpandMushroomSoup 	 .section-title {background: red;}
+#CeaserSalad    .section-title{background: yellow;}
 
 
 
